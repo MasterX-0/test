@@ -23,3 +23,5 @@ if marks >= 0 and marks <= 100:
         value = "S"
     else:
         value = "F"
+
+print("Hello", name , "Your grade is", value)
